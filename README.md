@@ -1,1 +1,2 @@
 # Fake-News-Detection
+The project aims to develop a machine-learning model capable of identifying and classifying any news article as fake or not. The distribution of fake news can potentially have highly adverse effects on people and culture. This project involves building and training a model to classify news as fake news or not using a diverse dataset of news articles. I have used four techniques to determine the results of the model.
