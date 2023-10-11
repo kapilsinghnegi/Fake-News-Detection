@@ -75,7 +75,7 @@ python random_forest_classifier.py
 
 ## Results
 
-We have evaluated the performance of each classifier using metrics such as accuracy, precision, recall, and F1-score. The results are documented in the project files.
+We have evaluated the performance of each classifier using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
 
 ## Model Deployment
 
