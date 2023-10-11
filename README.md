@@ -81,3 +81,9 @@ We have evaluated the performance of each classifier using metrics such as accur
 
 Once you are satisfied with the performance of a particular classifier, you can deploy it in a real-world application or integrate it into a larger system for automatic fake news detection.
 ---
+
+## Project Screenshots
+
+![WhatsApp Image 2023-10-11 at 7 08 20 PM](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/67e8399b-652e-4774-9e5c-b75048709b4a)
+
+
