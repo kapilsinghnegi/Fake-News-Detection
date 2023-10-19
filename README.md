@@ -13,7 +13,7 @@ Fake news has become a significant issue in today's digital age, where informati
 
 ## Dataset
 
-We have used a labeled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
+We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 - True: Genuine news articles
 - False: Fake or fabricated news articles
 
@@ -22,7 +22,7 @@ We have used a labeled dataset containing news articles along with their corresp
 Hardware :
 1. 4GB RAM
 2. i3 Processor
-3. 500mb free space
+3. 500MB free space
 
 Software :
 1. Anaconda
@@ -32,7 +32,7 @@ Software :
 
 Before running the code, make sure you have the following libraries and packages installed:
 
-- Python 3.x
+- Python 3
 - Scikit-learn
 - Pandas
 - Numpy
@@ -46,9 +46,9 @@ You can install these dependencies using pip:
 pip install pandas
 pip install numpy
 pip install matplotlib
-pip install scikit-learn
+pip install sklearn
 pip install seaborn 
-pip install regex 
+pip install re 
 ```
 
 ## Usage
@@ -75,7 +75,7 @@ python random_forest_classifier.py
 
 ## Results
 
-We have evaluated the performance of each classifier using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
+We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
 
 ## Model Deployment
 
@@ -90,8 +90,7 @@ Once you are satisfied with the performance of a particular classifier, you can 
 #### Fake News
 ![Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
 
-##Try
-![link - 1](https://githubtocolab.com/kapilsinghnegi/Fake-News-Detection/blob/main/Fake%20News%20Detection%20using%20machine%20learning.ipynb)
-
+#### Try
+[link - 1](https://github.com/kapilsinghnegi/Fake-News-Detection/blob/main/Fake%20News%20Detection%20using%20machine%20learning.ipynb)
 
 
