@@ -92,3 +92,5 @@ Once you are satisfied with the performance of a particular classifier, you can 
 
 #### Fake News
 ![Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
+
+##### Research Base Paper: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
